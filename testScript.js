@@ -7,7 +7,7 @@ window.onload = function () {
 };
 
 function startGame()  {
-  for (let r = 0; r < rows; r++) {
+  for (let r = 0; r < rows; r++)  {
     let row = [];
     for (let c = 0; c < columns; c++) {
       //<div id="0-0"></div>
